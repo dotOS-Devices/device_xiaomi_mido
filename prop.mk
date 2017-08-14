@@ -130,7 +130,8 @@ vendor.video.disable.ubwc=1
 # Perf
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.vendor.extension_library=libqti-perfd-client.so \
-ro.vendor.qti.sys.fw.bservice_enable=true
+ro.vendor.qti.sys.fw.bservice_enable=true \
+ro.sys.fw.dex2oat_thread_count=8
 
 # Netmgrd
 PRODUCT_PROPERTY_OVERRIDES += \
