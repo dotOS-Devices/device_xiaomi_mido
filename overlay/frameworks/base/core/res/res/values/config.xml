@@ -521,4 +521,7 @@
 	<!-- Whether device supports hardware keys or not -->
 	<bool name="config_button_brightness_support">true</bool>
     <integer name="config_button_brightness_default">128</integer>
+
+    <!-- Always On Display  -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
 </resources>
