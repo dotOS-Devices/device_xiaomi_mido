@@ -551,4 +551,6 @@
     <!-- Enable pocket mode -->
     <bool name="config_proxiSensorWakupCheck">true</bool> 
 
+    <!-- Whether or not we should show vendor mismatch message -->
+    <bool name="config_show_vendor_mismatch_message">false</bool>
 </resources>
