@@ -25,3 +25,7 @@ ro.kernel.ebpf.supported=true
 
 # Zygote Preforking
 persist.device.config.runtime_native.uasp_pool_enabled=true
+
+# Blur
+ro.sf.blurs_are_expensive=1
+ro.surface_flinger.supports_background_blur=1
