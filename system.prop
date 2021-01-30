@@ -22,3 +22,7 @@ ro.telephony.default_network=22,22
 
 # BPF
 ro.kernel.ebpf.supported=true
+
+# Blur
+ro.sf.blurs_are_expensive=1
+ro.surface_flinger.supports_background_blur=1
