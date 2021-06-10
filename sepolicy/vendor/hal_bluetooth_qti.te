@@ -1,0 +1,1 @@
+allow hal_bluetooth_qti ramdump_vendor_data_file:dir rw_dir_perms;
