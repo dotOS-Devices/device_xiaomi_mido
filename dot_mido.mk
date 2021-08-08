@@ -39,7 +39,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="mido-user 7.0 NRD90M V9.6.1.0.NCFMIFD release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "google/sunfish/sunfish:11/RQ3A.210705.001/7380771:user/release-keys"
+BUILD_FINGERPRINT := "google/sunfish/sunfish:11/RQ3A.210805.001.A1/7474174:user/release-keys"
 
 # Set BootAnimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
