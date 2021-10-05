@@ -635,5 +635,8 @@
     that have a HWC implementation that can apply the matrix passed to setColorTransform
     without impacting power, performance, and app compatibility (e.g. protected content). -->
     <bool name="config_nightDisplayAvailable">false</bool>
+
+     <!-- this device supports smart charging -->
+    <bool name="config_smartChargingVisibility">true</bool>
     
 </resources>
